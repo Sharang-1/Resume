@@ -1,0 +1,47 @@
+{
+	"basics": {
+		"name": "Sharang Verma",
+		"label": "Student",
+		"picture": "sharang.jpg",
+		"email": "2020KUCP1028@iiitkota.ac.in",
+		"phone": "7011391767",
+		"summary": "I am student of Indian Institute of Information Technology, Kota(India), pursing my B.tech in computer science",
+		"location": {
+			"address": "H.no- B-16, Gali no-4, Jai Bharat Enclave, Near Shyam Park Metro Station ",
+			"postalCode": "201007",
+			"city": "Sahibabad",
+			"countryCode": "India",
+			"region": "Uttar pardesh"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "Sharang-1",
+				"url": "https://github.com/Sharang-1"
+			},
+			{
+				"network": "linkedin",
+				"username": "Sharang Verma",
+				"url": "https://www.linkedin.com/in/sharang-verma-43b582207"
+			},
+			{
+				"network": "Instagram",
+				"username": "lifelearnigngstudy",
+				"url": "http://instagram.com/sharang_thakran?utm_source=qr"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-04-08",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Swimming", "Badminton"]
+	}],
+	"references": []
+}
